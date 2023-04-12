@@ -7,3 +7,5 @@ gonna test github and terminal use for a bit
 changes!
 
 okay how does this work
+
+maybe I got it now 
